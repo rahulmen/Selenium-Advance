@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9907" started-at="2018-05-23T18:39:22Z" finished-at="2018-05-23T18:39:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9907" started-at="2018-05-23T18:39:22Z" finished-at="2018-05-23T18:39:32Z">
+      <class name="com.seleniumAdvance.app.WebTableTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.seleniumAdvance.app.WebTableTest@6cd8737]" name="setup" is-config="true" duration-ms="8382" started-at="2018-05-24T00:09:22Z" finished-at="2018-05-24T00:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="WebTableTest1()[pri:0, instance:com.seleniumAdvance.app.WebTableTest@6cd8737]" name="WebTableTest1" duration-ms="768" started-at="2018-05-24T00:09:31Z" finished-at="2018-05-24T00:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebTableTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.seleniumAdvance.app.WebTableTest@6cd8737]" name="tearDown" is-config="true" duration-ms="686" started-at="2018-05-24T00:09:32Z" finished-at="2018-05-24T00:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.seleniumAdvance.app.WebTableTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
