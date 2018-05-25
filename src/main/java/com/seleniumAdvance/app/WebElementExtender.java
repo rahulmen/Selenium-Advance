@@ -9,6 +9,13 @@ import org.openqa.selenium.internal.WrapsDriver;
 //of WrapsDriver Interface
 
 public class WebElementExtender {
+	
+	public static void setAttribute(WebElement element,String attributeName,String value) {
+		
+		WrapsDriver wrapperElement = (WrapsDriver) element; 
+		JavascriptExecutor driver = (JavascriptExecutor)wrapperElement.getWrappedDriver();
+		driver.executeScript("arguments[0].setAttribute(arguments[1],arguments[2])",element,attributeName,value);
+	}
 
 	public static  void highlightElement(WebElement element) {
 		for(int i=0;i<5;i++) {

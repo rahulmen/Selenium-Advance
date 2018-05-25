@@ -5,6 +5,7 @@
     <classes>
       <class name="com.seleniumAdvance.app.WebElementExtenderTest">
         <methods>
+          <include name="tearDown"/>
           <include name="setup"/>
           <include name="searchGoogleTest"/>
         </methods>

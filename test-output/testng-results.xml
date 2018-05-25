@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9712" started-at="2018-05-25T07:24:04Z" finished-at="2018-05-25T07:24:14Z">
+  <suite name="Default suite" duration-ms="14522" started-at="2018-05-25T09:36:22Z" finished-at="2018-05-25T09:36:36Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9712" started-at="2018-05-25T07:24:04Z" finished-at="2018-05-25T07:24:14Z">
+    <test name="Default test" duration-ms="14522" started-at="2018-05-25T09:36:22Z" finished-at="2018-05-25T09:36:36Z">
       <class name="com.seleniumAdvance.app.WebElementExtenderTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.seleniumAdvance.app.WebElementExtenderTest@685cb137]" name="setup" is-config="true" duration-ms="7847" started-at="2018-05-25T07:24:04Z" finished-at="2018-05-25T07:24:12Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.seleniumAdvance.app.WebElementExtenderTest@6a41eaa2]" name="setup" is-config="true" duration-ms="9940" started-at="2018-05-25T09:36:22Z" finished-at="2018-05-25T09:36:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="searchGoogleTest()[pri:0, instance:com.seleniumAdvance.app.WebElementExtenderTest@685cb137]" name="searchGoogleTest" duration-ms="1780" started-at="2018-05-25T07:24:12Z" finished-at="2018-05-25T07:24:14Z">
+        <test-method status="PASS" signature="searchGoogleTest()[pri:0, instance:com.seleniumAdvance.app.WebElementExtenderTest@6a41eaa2]" name="searchGoogleTest" duration-ms="4505" started-at="2018-05-25T09:36:32Z" finished-at="2018-05-25T09:36:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchGoogleTest -->
