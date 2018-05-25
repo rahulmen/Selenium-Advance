@@ -26,10 +26,7 @@ public class JQueryUITab {
 				return tabCnt.size();
 	}
 	
-	public String getTabName() {
-		WebElement 
-		return null;
-	}
+	
 	
 	
 	
