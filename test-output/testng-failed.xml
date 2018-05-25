@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.seleniumAdvance.app.WebElementExtenderTest">
+      <class name="com.seleniumAdvance.app.ObjectMapTest">
         <methods>
+          <include name="ObjectMapTest1"/>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="searchGoogleTest"/>
         </methods>
-      </class> <!-- com.seleniumAdvance.app.WebElementExtenderTest -->
+      </class> <!-- com.seleniumAdvance.app.ObjectMapTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
